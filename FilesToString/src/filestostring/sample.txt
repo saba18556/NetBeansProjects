@@ -1,0 +1,11 @@
+banana
+dog
+monkey
+cat
+elephant
+hydrogen
+bag
+book
+socks
+students
+hat
